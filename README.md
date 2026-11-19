@@ -1,10 +1,10 @@
 # Vale
 
 <p align="center">
-  <img src="./vale.png" alt="Vale" width="200">
+  <img src="./VALE.png" alt="Vale" width="200">
 </p>
 
-[View VALE.pdf](https://github.com/user-attachments/files/35094431/VALE.png)
+[View VALE.png](https://github.com/user-attachments/files/35094431/VALE.png)
 
 ## Hi there 👋
 
