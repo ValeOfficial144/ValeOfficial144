@@ -1,15 +1,22 @@
+# Vale
 
-[VALE.pdf](https://github.com/user-attachments/files/35094431/VALE.pdf)
+<p align="center">
+  <img src="./vale.png" alt="Vale" width="200">
+</p>
+
+[View VALE.pdf](https://github.com/user-attachments/files/35094431/VALE.pdf)
+
 ## Hi there 👋
 
-**I am The Owner of the UBG Site Vale**
+**I am the owner of the UBG site Vale.**
 
-**Vale Has Features on it that include ( Listed below )**
+**Vale has features that include:**
+
 - Movies
-- Tv Shows 
+- TV Shows
 - Virtual Machines
 - Cloaking
 - Games
 - Proxy
 
-**And SO Much More**
+**And so much more!**
