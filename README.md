@@ -1,10 +1,4 @@
-# Vale
-
-<p align="center">
-  <img src="./VALE.png" alt="Vale" width="200">
-</p>
-
-[View VALE.png](https://github.com/user-attachments/files/35094431/VALE.png)
+<img width="1920" height="1080" alt="VALE" src="https://github.com/user-attachments/assets/2c4d438d-4e0a-4800-ac2a-e58af69ebb4f" />
 
 ## Hi there 👋
 
