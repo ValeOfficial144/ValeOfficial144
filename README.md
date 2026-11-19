@@ -4,7 +4,7 @@
   <img src="./vale.png" alt="Vale" width="200">
 </p>
 
-[View VALE.pdf](https://github.com/user-attachments/files/35094431/VALE.pdf)
+[View VALE.pdf](https://github.com/user-attachments/files/35094431/VALE.png)
 
 ## Hi there 👋
 
